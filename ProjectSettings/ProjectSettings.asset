@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: dfbae5d386bcb464c9a21559a3183d05
+  productGUID: 6bcac0fcd885eb541a3483b54649d087
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -752,10 +752,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a9809702-7f04-450e-a694-d577598caa60
+  cloudProjectId: 043378d9-7a2e-49bf-9a55-56b49be739e8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BubbleOdessey
+  projectName: BubbleOdessey 2025-01-24_20-00-02
   organizationId: unity_64b4af8a2c2b19ce2367
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
